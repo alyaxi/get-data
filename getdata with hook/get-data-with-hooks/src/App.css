@@ -1,0 +1,9 @@
+li {
+    font-weight: bold;
+    font-size: 20px;
+    list-style:square;
+    text-shadow: 2px 2px gainsboro;
+}
+.text-center{
+    text-align: center;
+}
